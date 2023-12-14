@@ -1,0 +1,52 @@
+{
+  "pt": {
+    "FOUND_FOLDER"       : " Encontrada a pasta do jogo: $0",
+    "GET_VERSIONS"       : " Obtendo as versões disponíveis do jogo...",
+    "SELECT_GAME_VERSION": " Selecione a versão do Star Citizen para instalar o atualizador de tradução PT-BR.",
+    "SELECT_EXE"         : " Selecione o StarCitizen_Launcher.exe na pasta do jogo",
+    "SELECT_VERSION"     : " Selecione a tradução para instalar.",
+    "OVERVIEW"           : " Visão geral:",
+    "GAME_FOLDER"        : "   - Pasta do jogo: $0",
+    "REMOVE_LANGUAGE"    : "   - Remover o pacote de atualização automática de tradução PT-BR.",
+    "INSTALL_LANGUAGE"   : "   - Instalar o pacote de atualização automática de tradução PT-BR.",
+    "CONTINUE_PROMPT"    : "Deseja continuar?",
+    "DOWNLOAD_FILES"     : " Baixando os arquivos de tradução...",
+    "REMOVE_FILES"       : " Removendo os arquivos de tradução...",
+    "UNINSTALL_COMPLETE" : " Desinstalação do atualizador de tradução do Star Citizen concluída!",
+    "EXIT_PROMPT"        : " Pressione ENTER para sair.",
+    "CONFIGURE_GAME"     : " Configurando o jogo...",
+    "INSTALL_COMPLETE"   : " Instalação do atualizador de tradução do Star Citizen concluída!",
+    "ENJOY_GAME"         : " Agora você pode aproveitar o Star Citizen com tradução PT-BR atualizada automaticamente pelo novo link criado em sua Área de Trabalho.",
+    "ENTER_TO_CONTINUE"  : " Pressione ENTER para sair.",
+    "SHORTCUT"           : " Criando atalho do atualizador na área de trabalho...",
+    "INSTALL"            : " Instalar tradução PT-BR (Português - Brasil)",
+    "REMOVE"             : " Remover tradução PT-BR (Padrão: Inglês)",
+    "INTERACTIVE_MENU"   : {
+      "HINT"             : " Use as setas (↑ e ↓) para selecionar, 'ENTER' para escolher e 'ESC' para sair.\n",
+      "EXITING"          : " Você pressionou ESC, saindo...",
+      "SELECTION"        : " Você selecionou $0"
+    },
+    "YES_NO_MENU": {
+      "TITLE": "Deseja continuar?",
+      "YES": {
+        "SHORT": "Sim",
+        "LONG" : "Sim: continuar"
+      },
+      "NO": {
+        "SHORT": "Não",
+        "LONG" : "Não: sair"
+      }
+    },
+    "ERRORS": {
+      "NO_GAME_FOLDER_SELECTED" : "\n Ocorreu um erro ao selecionar a pasta do jogo.",
+      "REPORT_BUG"              : "\n Se você achar que isso é um bug, por favor, relate-o aqui:",
+      "INSTALL_ERROR"           : "\n Ocorreu um erro ao instalar os arquivos de tradução.",
+      "USER_CFG_UPDATE_FAILED"  : "\n Falha na atualização do 'user.cfg'",
+      "USER_CFG_UPDATE_ERROR"   : "\n Ocorreu um erro ao atualizar o arquivo 'user.cfg'.",
+      "MENU_INVALID_BUTTON"     : "\n Botão inválido! Tente novamente...",
+      "LANGUAGE_NOT_EXIST"      : "\n A tradução \"$0\" não existe.",
+      "LANGUAGE_DOWNLOAD_FAILED": "\n Falha no download da tradução",
+      "LANGUAGE_NOT_AVAILABLE"  : "\n Talvez a tradução ainda não esteja disponível. Você pode verificar o status das traduções aqui:"
+    }
+  }
+}
