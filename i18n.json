@@ -9,25 +9,25 @@
     "GAME_FOLDER"        : "   - Pasta do jogo: $0",
     "REMOVE_LANGUAGE"    : "   - Remover o pacote de atualização automática de tradução PT-BR.",
     "INSTALL_LANGUAGE"   : "   - Instalar o pacote de atualização automática de tradução PT-BR.",
-    "CONTINUE_PROMPT"    : "Deseja continuar?",
+    "CONTINUE_PROMPT"    : " Deseja continuar?",
     "DOWNLOAD_FILES"     : " Baixando os arquivos de tradução...",
     "REMOVE_FILES"       : " Removendo os arquivos de tradução...",
     "UNINSTALL_COMPLETE" : " Desinstalação do atualizador de tradução do Star Citizen concluída!",
-    "EXIT_PROMPT"        : " Pressione ENTER para sair.",
+    "EXIT_PROMPT"        : " Pressione ENTER para sair",
     "CONFIGURE_GAME"     : " Configurando o jogo...",
     "INSTALL_COMPLETE"   : " Instalação do atualizador de tradução do Star Citizen concluída!",
     "ENJOY_GAME"         : " Agora você pode aproveitar o Star Citizen com tradução PT-BR atualizada automaticamente pelo novo link criado em sua Área de Trabalho.",
     "ENTER_TO_CONTINUE"  : " Pressione ENTER para sair.",
     "SHORTCUT"           : " Criando atalho do atualizador na área de trabalho...",
-    "INSTALL"            : " Instalar tradução PT-BR (Português - Brasil)",
-    "REMOVE"             : " Remover tradução PT-BR (Padrão: Inglês)",
+    "INSTALL"            : "Instalar tradução PT-BR (Português - Brasil)",
+    "REMOVE"             : "Remover tradução PT-BR (Padrão: Inglês)",
     "INTERACTIVE_MENU"   : {
       "HINT"             : " Use as setas (↑ e ↓) para selecionar, 'ENTER' para escolher e 'ESC' para sair.\n",
       "EXITING"          : " Você pressionou ESC, saindo...",
       "SELECTION"        : " Você selecionou $0"
     },
     "YES_NO_MENU": {
-      "TITLE": "Deseja continuar?",
+      "TITLE": " Deseja continuar?",
       "YES": {
         "SHORT": "Sim",
         "LONG" : "Sim: continuar"
