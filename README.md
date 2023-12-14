@@ -1,0 +1,16 @@
+Programa de Atualização Automática de Tradução para Star Citizen: Uma Inovação da Toxic Alliance
+
+A Toxic Alliance tem o prazer de apresentar seu mais recente projeto inovador: o Programa de Atualização Automática de Tradução para Star Citizen. Com o objetivo de aprimorar a experiência da comunidade no jogo, desenvolvemos uma ferramenta que visa aperfeiçoar a tradução para o português (pt-br), proporcionando uma imersão mais completa e facilitando o entendimento do jogador no mundo de Star Citizen.
+
+Este programa é uma resposta ao desejo constante da comunidade por uma localização mais eficiente e precisa das informações no Star Citizen. Com a crescente diversidade de jogadores, reconhecemos a importância de oferecer uma experiência inclusiva, onde a barreira linguística não seja um obstáculo para a colaboração e a diversão.
+
+Principais Características do Programa:
+
+Atualizações Automáticas: O programa garante que as traduções estejam sempre alinhadas com as últimas alterações e adições no jogo. Isso significa que, à medida que o Star Citizen evolui, as traduções também são atualizadas automaticamente, proporcionando uma experiência contínua e sem interrupções.
+
+Interface Intuitiva: Desenvolvemos uma interface fácil de usar, garantindo que tanto jogadores experientes quanto novatos possam aproveitar os benefícios do programa sem complicações. A simplicidade é a chave para uma experiência de jogo aprimorada.
+
+Ao lançar o Programa de Atualização Automática de Tradução para Star Citizen, a Toxic Alliance reafirma seu compromisso com a inovação e o apoio à comunidade. Estamos ansiosos para ver como essa ferramenta transformará a maneira como os jogadores se conectam e desfrutam do vasto universo de Star Citizen. Junte-se a nós nesta jornada para uma experiência de jogo verdadeiramente global!
+
+Download:
+https://github.com/rwxlff/StarCitizenBR/raw/main/Instalador%20SCBR.exe
