@@ -14,3 +14,5 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
 
 Download:
 https://github.com/rwxlff/StarCitizenBR/raw/main/Instalador%20SCBR.exe
+
+![photo1702572543](https://github.com/rwxlff/StarCitizenBR/assets/10576227/d768ac54-ff41-417c-8fab-10c7e55481a1)
