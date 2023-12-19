@@ -16,7 +16,7 @@ Download: https://github.com/rwxlff/StarCitizenBR/raw/main/Instalador%20SCBR.exe
 
 Instalação:
 
-1. Configure a exclusão no Windows Defender e no seu anti-vírus para o "Instalador SCBR.exe" e o "StarCitizenBR.exe" que será gerado na pasta da versão do jogo escolhida antes de iniciar a instalação.
+1. Configure a exclusão no Windows Defender e no seu antivirus para o "Instalador SCBR.exe" e o "StarCitizenBR.exe" que será gerado na pasta da versão do jogo escolhida antes de iniciar a instalação.
 
 2. Faça o download do Instalador SCBR para sua Área de Trabalho e execute-o.
 
