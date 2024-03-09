@@ -16,7 +16,7 @@ Download: https://github.com/rwxlff/StarCitizenBR/raw/main/Instalador%20SCBR.exe
 
 Instalação:
 
-1. Configure a exclusão no Windows Defender e no seu antivirus para o "Instalador SCBR.exe" e o "StarCitizenBR.exe" que será gerado na pasta da versão do jogo escolhida antes de iniciar a instalação.
+1. Se necessário, configure a exclusão do "Instalador SCBR.exe" e da pasta do jogo no seu antivirus.
 
 2. Faça o download do Instalador SCBR para sua Área de Trabalho e execute-o.
 
@@ -28,5 +28,5 @@ Instalação:
 
 Para informar os nossos usuários, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo como mostrado na imagem abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
 
-![StarCitizenBRDate](https://github.com/rwxlff/StarCitizenBR/assets/10576227/e124ae2f-f00c-40b9-96d1-1c57e5b50c59)
+![Captura de tela 2024-03-08 223806](https://github.com/rwxlff/StarCitizenBR/assets/10576227/e96ef23f-ce6f-4565-8a8c-aae78e3d9d13)
 
