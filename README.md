@@ -28,5 +28,4 @@ Instalação:
 
 Para informar os nossos usuários, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo como mostrado na imagem abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
 
-![Captura de tela 2024-03-08 223806](https://github.com/rwxlff/StarCitizenBR/assets/10576227/e96ef23f-ce6f-4565-8a8c-aae78e3d9d13)
-
+![Captura de tela 2024-04-24 111054](https://github.com/rwxlff/StarCitizenBR/assets/10576227/58e91aef-e5b3-481a-9bbf-312a0b961c88)
