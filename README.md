@@ -42,8 +42,6 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
         box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2); /* Sombra mais curta */
     }
 </style>
-</head>
-<body>
 
 <a href="https://github.com/rwxlff/StarCitizenBR/raw/main/Instalador%20SCBR.exe" class="scbr-button">Download<br>StarCitizenBR 2.0</a>
 
