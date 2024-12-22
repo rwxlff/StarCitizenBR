@@ -16,16 +16,22 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
 
 Instalação:
 
-1. Se necessário, configure a exclusão do "Instalador SCBR.exe" e da pasta do jogo no seu antivirus.
+1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files (x86)\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
 
-2. Faça o download do Instalador SCBR para sua Área de Trabalho e execute-o.
+2. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
 
-3. Selecione a versão do jogo que deve ter sua tradução atualizada automaticamente e siga as instruções do instalador.
+3. Se tudo deu certo, um link deve ter sido gerado em seu Iniciar e Desktop, execute o programa que fará o reconhecimento de suas versões do Star Citizen.
 
-4. Um atalho deve ter sido gerado em sua Área de Trabalho, sempre que executar o Launcher do Star Citizen por este atalho ele deve baixar a versão mais atualizada da tradução e em seguida iniciar o Launcher original automaticamente.
+4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela e pronto.
 
-![Instalador SCBR](https://github.com/rwxlff/StarCitizenBR/assets/10576227/4d3b9256-f493-4335-a146-81e66bf96334)
+![StarCitizenBR_3 0](https://github.com/user-attachments/assets/23c3adeb-b66a-4389-a628-951e0cbc395c)
 
-Para informar os nossos usuários, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo como mostrado na imagem abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
+5. Você pode fechar o programa que ele continuará sendo executado na bandeja do sistema, ao lado do relógio do Windows. Com o mouse em cima do icone você tem informações da versão do software, horário de verificação e atualização da tradução. Com o botão direito você abre o menu para Mostrar/Ocultar a janela e também para Fechar o programa completamente.
 
-![Captura de tela 2024-04-24 111054](https://github.com/rwxlff/StarCitizenBR/assets/10576227/58e91aef-e5b3-481a-9bbf-312a0b961c88)
+![StarCitizenBR_3 0_TrayIcon](https://github.com/user-attachments/assets/1ec02be6-aed8-4dbe-a241-b71c0a8ea685)
+
+Para informar os nossos usuários, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo e no Diário do mobiGlas como mostrado nas imagens abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
+
+![StarCitizenBR_3 0_MainMenu](https://github.com/user-attachments/assets/8e0a91f6-ad6d-44fe-a769-17e4aceb289e)
+![StarCitizenBR_3 0_Jornal](https://github.com/user-attachments/assets/0a4043f3-e12e-4852-babb-c5afe05c74ad)
+
