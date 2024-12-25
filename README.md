@@ -12,17 +12,17 @@ Interface Intuitiva: Desenvolvemos uma interface fácil de usar, garantindo que 
 
 Ao lançar o Programa de Atualização Automática de Tradução para Star Citizen, a Toxic Alliance reafirma seu compromisso com a inovação e o apoio à comunidade. Estamos ansiosos para ver como essa ferramenta transformará a maneira como os jogadores se conectam e desfrutam do vasto universo de Star Citizen. Junte-se a nós nesta jornada para uma experiência de jogo verdadeiramente global!
 
-[![Download](https://img.shields.io/badge/Download-StarCitizenBR%203.1-brightgreen)](https://github.com/rwxlff/StarCitizenBR/raw/main/InstaladorSCBR.exe)
+[![Download](https://img.shields.io/badge/Download-StarCitizenBR%203.2-brightgreen)](https://github.com/rwxlff/StarCitizenBR/raw/main/InstaladorSCBR.exe)
 
 Instalação:
 
-1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files (x86)\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
+1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
 
 2. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
 
 3. Se tudo deu certo, um link deve ter sido gerado em seu Iniciar e Desktop, execute o programa que fará o reconhecimento de suas versões do Star Citizen.
 
-4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela e pronto.
+4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela, clique em "Instalar" na coluna "Ação" e pronto.
 
 ![StarCitizenBR_3 0](https://github.com/user-attachments/assets/23c3adeb-b66a-4389-a628-951e0cbc395c)
 
