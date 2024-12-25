@@ -16,7 +16,7 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
 
 Instalação:
 
-1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files (x86)\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
+1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
 
 2. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
 
