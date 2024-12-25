@@ -22,7 +22,7 @@ Instalação:
 
 3. Se tudo deu certo, um link deve ter sido gerado em seu Iniciar e Desktop, execute o programa que fará o reconhecimento de suas versões do Star Citizen.
 
-4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela e pronto.
+4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela, clique em "Instalar" na coluna "Ação" e pronto.
 
 ![StarCitizenBR_3 0](https://github.com/user-attachments/assets/23c3adeb-b66a-4389-a628-951e0cbc395c)
 
