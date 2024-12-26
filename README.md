@@ -12,7 +12,11 @@ Interface Intuitiva: Desenvolvemos uma interface fácil de usar, garantindo que 
 
 Ao lançar o Programa de Atualização Automática de Tradução para Star Citizen, a Toxic Alliance reafirma seu compromisso com a inovação e o apoio à comunidade. Estamos ansiosos para ver como essa ferramenta transformará a maneira como os jogadores se conectam e desfrutam do vasto universo de Star Citizen. Junte-se a nós nesta jornada para uma experiência de jogo verdadeiramente global!
 
+<<<<<<< HEAD
 [![Download](https://img.shields.io/badge/Download-StarCitizenBR%203.4-brightgreen)](https://github.com/rwxlff/StarCitizenBR/raw/main/InstaladorSCBR.exe)
+=======
+[![Download](https://img.shields.io/badge/Download-StarCitizenBR%203.3-brightgreen)](https://github.com/rwxlff/StarCitizenBR/raw/main/InstaladorSCBR.exe)
+>>>>>>> 6aabbdd3af3233e43293c88eb6389b355f5c3e9c
 
 Instalação:
 
