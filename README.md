@@ -17,7 +17,8 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
 Instalação:
 
 1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
-   Caso tenha dúvidas, pode verificar todos os arquivos do repositório no VirusTotal.com diretamente pela URL sem baixar o arquivo: https://www.virustotal.com/gui/url/2aabc87cdeb7b2b3593874c107bf600257d38977ab5aebb343b88e42ed7afd60
+   Caso tenha dúvidas, pode verificar todos os arquivos do repositório no <a href="https://www.virustotal.com/gui/url/2aabc87cdeb7b2b3593874c107bf600257d38977ab5aebb343b88e42ed7afd60" target="_blank">VirusTotal.com</a>
+ diretamente pela URL sem baixar o arquivo.
 
 3. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
 
