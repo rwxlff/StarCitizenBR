@@ -17,12 +17,13 @@ Ao lançar o Programa de Atualização Automática de Tradução para Star Citiz
 Instalação:
 
 1. Se necessário, configure a exclusão do "InstaladorSCBR.exe" e da pasta do programa ("C:\Program Files\StarCitizenBR") no seu antivirus ou desatíve-o (melhor opção).
+   Caso tenha dúvidas, pode verificar todos os arquivos do repositório no VirusTotal.com diretamente pela URL sem baixar o arquivo: https://www.virustotal.com/gui/url/2aabc87cdeb7b2b3593874c107bf600257d38977ab5aebb343b88e42ed7afd60
 
-2. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
+3. Faça o download do InstaladorSCBR para sua Área de Trabalho e execute-o.
 
-3. Se tudo deu certo, um link deve ter sido gerado em seu Iniciar e Desktop, execute o programa que fará o reconhecimento de suas versões do Star Citizen.
+4. Se tudo deu certo, um link deve ter sido gerado em seu Iniciar e Desktop, execute o programa que fará o reconhecimento de suas versões do Star Citizen.
 
-4. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela, clique em "Instalar" na coluna "Ação" e pronto.
+5. Escolha qual versão do Star Citizen deseja instalar a tradução na tabela, clique em "Instalar" na coluna "Ação" e pronto.
 
 ![StarCitizenBR_3 0](https://github.com/user-attachments/assets/23c3adeb-b66a-4389-a628-951e0cbc395c)
 
