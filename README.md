@@ -44,14 +44,16 @@ Modo de Uso:
 
 5. Escolha qual ambiente do Star Citizen deseja aplicar a tradução, clique em "Aplicar", ou em "Sobrescrever" se desejar sobrescrever uma tradução diferente, na coluna "Ação" e pronto.
 
-![StarCitizenBR_3 0](https://github.com/user-attachments/assets/23c3adeb-b66a-4389-a628-951e0cbc395c)
+<img width="472" height="307" alt="StarCitizenBR" src="https://github.com/user-attachments/assets/1b266c77-1c26-42d3-802b-a11faa9f45f1" />
 
 5. Você pode fechar a janela, o app continuará ativo na bandeja do sistema, ao lado do relógio do Windows. Com o mouse em cima do icone você tem informações da versão do app, horário de verificação e atualização da tradução, com o clique esquerdo mostra/oculta a janela do app e com o botão direito você abre o Tray Menu com todas as opções do StarCitizenBR.
 
-![StarCitizenBR_3 0_TrayIcon](https://github.com/user-attachments/assets/1ec02be6-aed8-4dbe-a241-b71c0a8ea685)
+<img width="272" height="381" alt="TrayMenu" src="https://github.com/user-attachments/assets/404c1e43-e14c-460e-b35d-786d973e3e34" />
+<img width="306" height="149" alt="StarCitizenBR_ToolTip" src="https://github.com/user-attachments/assets/77a45c64-8dec-4f27-b05e-ce4f01c88309" />
 
 Para manter os nossos usuários informados, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo e no Diário (Jornal) do mobiGlas como mostrado nas imagens abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
 
-![StarCitizenBR_3 0_MainMenu](https://github.com/user-attachments/assets/8e0a91f6-ad6d-44fe-a769-17e4aceb289e)
-![StarCitizenBR_3 0_Jornal](https://github.com/user-attachments/assets/0a4043f3-e12e-4852-babb-c5afe05c74ad)
+<img width="1108" height="685" alt="StarCitizenBR_Menu" src="https://github.com/user-attachments/assets/899ca10a-7906-4122-b0ec-e97158b7117c" />
+<img width="2234" height="699" alt="StarCitizenBR_mobiGlas" src="https://github.com/user-attachments/assets/8180ece2-4956-4172-853e-796fffed5eb3" />
+
 
