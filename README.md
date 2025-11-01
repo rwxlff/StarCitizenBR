@@ -10,7 +10,7 @@ Este programa é uma resposta ao desejo constante da comunidade por uma localiza
 
 - **Interface Intuitiva:** Desenvolvi uma interface fácil de usar, garantindo que tanto jogadores novatos quanto experientes possam aproveitar os benefícios do programa sem complicações.
 
-- **Verificador de Ambientes:** Detecta os ambientes disponíveis para tradução no Star Citizen automaticamente evitando ❌ os⚠️ aplicação.
+- **Verificador de Ambientes:** Detecta os ambientes disponíveis para tradução no Star Citizen automaticamente evitando erros de aplicação.
 
 - **Redundância de Repositórios:** Para garantir a atualização da tradução o StarCitizenBR trabalha com repositórios redundantes (GitHub e GitLab) para que na indisponibilidade de um se utilize o outro.
 
