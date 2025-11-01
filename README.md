@@ -30,11 +30,10 @@ Este programa é uma resposta ao desejo constante da comunidade por uma localiza
 
 Com o StarCitizenBR, à medida que o Star Citizen evolui, as traduções também são atualizadas automaticamente, proporcionando uma experiência contínua e sem interrupções. O novo StarCitizenBR 5.0 também trás traduções atualizadas em tempo record para manter o jogador sempre atualizado com os patchs mais recentes.
 
-<div align="center">
 
 [![Download](https://img.shields.io/badge/StarCitizenBR%20(ÚLTIMA%20VERSÃO)-Download-%23026401?style=for-the-badge&labelColor=%23111)](https://github.com/rwxlff/StarCitizenBR/raw/main/StarCitizenBR.exe)
 
-</div>
+
 
 ## Modo de Uso:
 
@@ -51,12 +50,14 @@ Com o StarCitizenBR, à medida que o Star Citizen evolui, as traduções também
   <img width="472" height="307" alt="StarCitizenBR" src="https://github.com/user-attachments/assets/1b266c77-1c26-42d3-802b-a11faa9f45f1" />
 </div>
 
+
 5. Você pode fechar a janela, o app continuará ativo na bandeja do sistema, ao lado do relógio do Windows. Com o mouse em cima do icone você tem informações da versão do app, horário de verificação e atualização da tradução, com o clique esquerdo mostra/oculta a janela do app e com o botão direito você abre o Tray Menu com todas as opções do StarCitizenBR.
 
 <div align="center">
   <img width="272" height="381" alt="TrayMenu" src="https://github.com/user-attachments/assets/404c1e43-e14c-460e-b35d-786d973e3e34" />
   <img width="306" height="149" alt="StarCitizenBR_ToolTip" src="https://github.com/user-attachments/assets/77a45c64-8dec-4f27-b05e-ce4f01c88309" />
 </div>
+
 
 Para manter os nossos usuários informados, a data e hora da última atualização do seu arquivo de tradução é apresentada no Menu Principal do jogo e no Diário (Jornal) do mobiGlas como mostrado nas imagens abaixo. Desta forma você pode acompanhar e verificar se a sua versão da tradução é recente.
 
