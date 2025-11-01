@@ -53,8 +53,8 @@ Com o StarCitizenBR, à medida que o Star Citizen evolui, as traduções também
 5. Você pode fechar a janela, o app continuará ativo na bandeja do sistema, ao lado do relógio do Windows. Com o mouse em cima do icone você tem informações da versão do app, horário de verificação e atualização da tradução, com o clique esquerdo mostra/oculta a janela do app e com o botão direito você abre o Tray Menu com todas as opções do StarCitizenBR.
 
 <div align="center">
-  <img width="272" height="381" alt="TrayMenu" src="https://github.com/user-attachments/assets/404c1e43-e14c-460e-b35d-786d973e3e34" />
   <img width="306" height="149" alt="StarCitizenBR_ToolTip" src="https://github.com/user-attachments/assets/77a45c64-8dec-4f27-b05e-ce4f01c88309" />
+  <img width="272" height="381" alt="TrayMenu" src="https://github.com/user-attachments/assets/404c1e43-e14c-460e-b35d-786d973e3e34" />
 </div>
 <br>
 
