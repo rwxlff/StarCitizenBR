@@ -1,4 +1,4 @@
-# StarCitizenBR 5.0
+# StarCitizenBR 5.1
 
 Este programa é uma resposta ao desejo constante da comunidade por uma localização mais eficiente e precisa das informações no Star Citizen. Com a crescente diversidade de jogadores, reconhecemos a importância de oferecer uma experiência inclusiva, onde a barreira linguística não seja um obstáculo para a colaboração e a diversão.
 
@@ -6,7 +6,7 @@ Este programa é uma resposta ao desejo constante da comunidade por uma localiza
 
 - **Atualizações Automáticas:** O StarCitizenBR mantém atualizada a sua tradução para PT-BR em múltiplos ambientes do Star Citizen.
 
-- **Programa Portátil:** O novo StarCitizenBR 5.0 dispensa instalações, sendo um arquivo único ele pode ser executado em qualquer local.
+- **Programa Portátil:** O novo StarCitizenBR 5.1 dispensa instalações, sendo um arquivo único ele pode ser executado em qualquer local.
 
 - **Interface Intuitiva:** Desenvolvi uma interface fácil de usar, garantindo que tanto jogadores novatos quanto experientes possam aproveitar os benefícios do programa sem complicações.
 
@@ -28,7 +28,7 @@ Este programa é uma resposta ao desejo constante da comunidade por uma localiza
 
 ---
 
-Com o StarCitizenBR, à medida que o Star Citizen evolui, as traduções também são atualizadas automaticamente, proporcionando uma experiência contínua e sem interrupções. O novo StarCitizenBR 5.0 também trás traduções atualizadas em tempo record para manter o jogador sempre atualizado com os patchs mais recentes.
+Com o StarCitizenBR, à medida que o Star Citizen evolui, as traduções também são atualizadas automaticamente, proporcionando uma experiência contínua e sem interrupções. O novo StarCitizenBR 5.1 também trás traduções atualizadas em tempo record para manter o jogador sempre atualizado com os patchs mais recentes.
 
 
 [![Download](https://img.shields.io/badge/StarCitizenBR%20(ÚLTIMA%20VERSÃO)-Download-%23026401?style=for-the-badge&labelColor=%23111)](https://github.com/rwxlff/StarCitizenBR/raw/main/StarCitizenBR.exe)
